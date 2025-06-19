@@ -72,8 +72,4 @@ Sinta-se à vontade para enviar sugestões, melhorias ou encontrar algum problem
 
 ---
 
-## Licença
-
-Este projeto está sob a licença [MIT License / Apache License 2.0 ].
-
 ---
