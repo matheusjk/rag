@@ -71,5 +71,3 @@ Para executar este projeto, você precisará do Google Colab e de algumas config
 Sinta-se à vontade para enviar sugestões, melhorias ou encontrar algum problema.
 
 ---
-
----
