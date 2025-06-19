@@ -31,7 +31,7 @@ Este repositório demonstra uma implementação de Retrieval Augmented Generatio
 
 * **RAG (Retrieval Augmented Generation):** Uma técnica que combina a capacidade de geração de modelos de linguagem com a recuperação de informações relevantes para produzir respostas mais precisas e informadas.
 * **Ollama:** Uma plataforma que permite executar grandes modelos de linguagem (LLMs) localmente, facilitando o uso do Gemma 3.1-12B.
-* **Gemma 3.1-12B:** Um modelo de linguagem poderoso desenvolvido pelo Google, utilizado aqui para a etapa de geração.
+* **Gemma 3 12B:** Um modelo de linguagem poderoso desenvolvido pelo Google, utilizado aqui para a etapa de resposta.
 * **FAISS (Facebook AI Similarity Search):** Uma biblioteca para busca eficiente de similaridade em embeddings, utilizada para armazenar e consultar o índice vetorial.
 * **LangChain:** Um framework para desenvolver aplicações alimentadas por LLMs, fornecendo ferramentas para encadear componentes de forma modular e flexível.
 * **Nomic Embed:** Utilizado para gerar embeddings de alta qualidade para o texto, que são então indexados pelo FAISS.
@@ -55,11 +55,11 @@ O projeto é estruturado para demonstrar o fluxo completo de um sistema RAG:
 
 Para executar este projeto, você precisará do Google Colab e de algumas configurações iniciais para o Ollama e o Gemma 3.1-12B.
 
-1.  **Abra no Google Colab:** O projeto foi desenvolvido para ser executado diretamente no Google Colab. Recomenda-se abrir o(s) notebook(s) `[nome_do_seu_notebook.ipynb]` presente(s) neste repositório.
+1.  **Abra no Google Colab:** O projeto foi desenvolvido para ser executado diretamente no Google Colab. Recomenda-se abrir e clonar o(s) notebook(s) presente(s) neste repositório.
 2.  **Instale as Dependências:** As células iniciais do notebook irão conter comandos para instalar todas as bibliotecas Python necessárias (LangChain, FAISS, Ollama, etc.).
 3.  **Configurar Ollama e Gemma:**
     * Siga as instruções no notebook para instalar e iniciar o servidor Ollama no ambiente Colab.
-    * Puxe o modelo `gemma:3.1-12b` usando o comando `ollama pull gemma:3.1-12b`.
+    * Puxe o modelo `gemma:3 12b` usando o comando `ollama pull gemma3:12b`.
 4.  **Execute as Células:** Prossiga executando as células do notebook sequencialmente. Isso incluirá:
     * Carregamento dos dados.
     * Geração dos embeddings com Nomic Embed.
@@ -71,7 +71,7 @@ Para executar este projeto, você precisará do Google Colab e de algumas config
 
 ## Contribuições
 
-Sinta-se à vontade para abrir issues ou enviar pull requests se tiver sugestões, melhorias ou encontrar algum problema.
+Sinta-se à vontade para enviar sugestões, melhorias ou encontrar algum problema.
 
 ---
 
