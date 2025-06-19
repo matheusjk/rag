@@ -74,6 +74,6 @@ Sinta-se à vontade para enviar sugestões, melhorias ou encontrar algum problem
 
 ## Licença
 
-Este projeto está sob a licença [MIT License / Apache License 2.0 / Sua Licença Escolhida]. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença [MIT License / Apache License 2.0 / Sua Licença Escolhida].
 
 ---
