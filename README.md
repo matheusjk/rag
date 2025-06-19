@@ -1,9 +1,3 @@
-RAG
-
-RAG da biblia usando Ollama gemma3:12b | FAISS | LangChain | Nomic Embed 
-
-Aviso: Isso foi uma POC e não substitui a leitura da biblia fisica! Clone o repo, teste com suas perguntas e verifique as respostas!
-
 ## 
 
 <div style="display: inline_block">
@@ -18,6 +12,12 @@ Aviso: Isso foi uma POC e não substitui a leitura da biblia fisica! Clone o rep
 
 
 ##
+
+# RAG da biblia usando Ollama gemma3:12b | FAISS | LangChain | Nomic Embed 
+
+Aviso: Isso foi uma POC e não substitui a leitura da biblia fisica! Clone o repo, teste com suas perguntas e verifique as respostas!
+
+---
 
 # RAG com Ollama, Gemma3 12B e LangChain
 
