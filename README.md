@@ -18,11 +18,6 @@ Aviso: Isso foi uma POC e não substitui a leitura da biblia fisica! Clone o rep
 
 ##
 
-
-Certainly! Here's a README markdown for your GitHub repository, incorporating all the technologies you've used:
-
----
-
 # RAG com Ollama, Gemma3 12B e LangChain
 
 Este repositório demonstra uma implementação de Retrieval Augmented Generation (RAG) utilizando o modelo de linguagem Gemma3 12B executado via Ollama, FAISS para busca de similaridade e LangChain. O desenvolvimento e a execução deste projeto foram realizados no Google Colab, com embeddings gerados por Nomic Embed.
