@@ -6,8 +6,6 @@ Aviso: Isso foi uma POC e não substitui a leitura da biblia! Clone o repo, test
 
 ---
 
-## 
-
 <div style="display: inline_block">
 
 <img align="center" height="45px" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  /> 
